@@ -1,4 +1,4 @@
-package com.mhfusetbuilder;
+package com.mhfusetbuilder.View;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

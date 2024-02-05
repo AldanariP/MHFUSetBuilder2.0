@@ -1,4 +1,4 @@
-package com.mhfusetbuilder;
+package com.mhfusetbuilder.Controller;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
